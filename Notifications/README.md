@@ -8,3 +8,5 @@ Example:
 # How to Install
 
 1) Copy two perl files in your Nagios/Icinga plugins folder.
+2) Add execution rights on the two scripts.
+3) 
