@@ -2,7 +2,7 @@
 
 This plugins are a fork from the originals plugins written by Frank Migge.
 
-This allow you to send HTML e-mail with your Nagios/Icinga System.
+This allow you to send HTML e-mail with your Nagios/Icinga System.<br>
 Example:
 
 # How to Install
